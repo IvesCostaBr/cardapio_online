@@ -1,0 +1,1 @@
+web: gunicorn cardapio_online.wsgi
